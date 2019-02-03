@@ -1,0 +1,27 @@
+header {
+  padding: 5px;
+  text-align: center;
+  background: crimson;
+  text-shadow: 3px 2px rgb(12, 21, 145);
+  color: yellow;
+  font-size: 30px;
+  border-style: double;
+  border-width: thick;
+}
+
+img {
+  width: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body {
+  background-color: rgb(227, 228, 243);
+}
+footer{
+  text-align: center; 
+  background: darkgray;
+  color: rgb(15, 15, 14);
+}
+p {
+  font-size: large;
+}
