@@ -25,3 +25,7 @@ footer{
 p {
   font-size: large;
 }
+nav ul {
+  float: right;
+  list-style-type: none;
+}
